@@ -19,4 +19,5 @@ This analysis compares the portfolio performance between a portfolio having 100%
 8. Repeat the strategy every month by taking reference how much PV is left in your investment
 
 ## Notebook
-https://github.com/edgetrader/constant-proportion-portfolio-insurance/blob/master/notebook/cppi.ipynb
+- https://github.com/edgetrader/constant-proportion-portfolio-insurance/blob/master/notebook/cppi.ipynb
+- https://github.com/edgetrader/constant-proportion-portfolio-insurance/blob/master/notebook/interactive-cppi.ipynb (Download the jupyter notebook and run locally to play with the parameters of the CPPI strategies)
