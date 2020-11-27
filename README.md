@@ -23,4 +23,4 @@ This analysis compares the portfolio performance between a portfolio having 100%
 - [Analysing CPPI Strategies Interactively*](ttps://github.com/edgetrader/constant-proportion-portfolio-insurance/blob/master/notebook/interactive-cppi.ipynb)
 - [Asset Allocation and Risk Budgeting using CPPI Strategies*](https://github.com/edgetrader/constant-proportion-portfolio-insurance/blob/master/notebook/risk-budgeting-cppi.ipynb)
 
-** Require local download of the jupyter notebook to play with the parameters of the CPPI strategies)*
+* *Require local download of the jupyter notebook to play with the parameters of the CPPI strategies)*
