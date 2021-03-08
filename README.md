@@ -3,7 +3,7 @@ Portfolio risk management using diligent asset allocation strategy to limit down
 
 ---
 ## Reference
-**Thank you to all for highlight.  I forgot to give credit to EDHEC Business School earlier.**
+**Thank you to all for highlight.  I forgot to give credit to EDHEC Business School earlier.**.  
 This analysis follows closely to the materials and projects of [Investment Management with Python & Machine Learning by EDHEC Business School](https://online.edhec.edu/en/online-programmes/data-science-and-machine-learning-for-asset-management/) Course.  Thank you to the lecturers and assistants involved in creating this course.
 
 ## Summary
