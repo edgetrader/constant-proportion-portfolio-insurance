@@ -3,7 +3,8 @@ Portfolio risk management using diligent asset allocation strategy to limit down
 
 ---
 ## Reference
-Course Materials and Projects of [Investment Management with Python & Machine Learning](https://online.edhec.edu/en/online-programmes/data-science-and-machine-learning-for-asset-management/) Course
+**Thank you to all for highlight.  I forgot to give credit to EDHEC Business School earlier.**
+This analysis follows closely to the materials and projects of [Investment Management with Python & Machine Learning by EDHEC Business School](https://online.edhec.edu/en/online-programmes/data-science-and-machine-learning-for-asset-management/) Course.  Thank you to the lecturers and assistants involved in creating this course.
 
 ## Summary
 The constant proportion portfolio insurance is an asset allocation strategy between a risky asset and a safe asset.  The portfolio is rebalanced at regular periods (eg: monthly) with a primary objective of protecting downside risk, minimising the amount of maximum drawdown the portfolio is exposed to.
